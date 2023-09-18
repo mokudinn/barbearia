@@ -2,11 +2,10 @@ body {
         background: #cccccc;
 }
 
-p {
-    text-align: center;
-    background: #cccccc;
+#banner {
+        width: 100%;
 }
 
-em strong {
-    color: red;
-}
+h1 { 
+    text-align:center;
+    }
